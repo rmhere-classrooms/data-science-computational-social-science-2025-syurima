@@ -1,0 +1,13 @@
+name: infoSpread
+title: infoSpread
+username: syurima
+account: syurima
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16195320
+bundleId: 11249985
+url: https://syurima.shinyapps.io/infoSpread/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AppURL.txt|mysolution1.R|mysolution2.R|plots/1_conn_components.png|plots/1_hist_degree.png|plots/1_plot_PR.png|plots/2_plot_BA.png
